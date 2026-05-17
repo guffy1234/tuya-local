@@ -460,7 +460,7 @@ entities:
         mapping:
           - scale: 100
   - entity: button
-    name: Clear eneregy
+    name: Clear energy
     class: restart
     category: config
     dps:

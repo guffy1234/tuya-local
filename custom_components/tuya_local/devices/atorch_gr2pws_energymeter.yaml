@@ -505,7 +505,7 @@ entities:
         mapping:
           - scale: 100
   - entity: number
-    name: Low credit warning
+    name: Credit
     category: config
     class: energy
     icon: "mdi:alarm-bell"
